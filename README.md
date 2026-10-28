@@ -1,30 +1,34 @@
-# Papi · thepotentguy
+# Papi Mashamba · The Potent Guy
 
-### Web experiences. Practical automation. Reliable handovers.
+### Digital marketing leadership · Marketing operations · Digital transformation
 
-I work at the intersection of digital marketing, web interfaces and workflow automation through **Potent Digital**. I focus on useful systems: understand the workflow, make a focused improvement, verify it and leave a clear handover.
+I connect marketing strategy with the systems and creative work needed to deliver it: acquisition, content, websites, SEO, measurement, CRM and customer journeys.
+
+As **Digital Marketing Executive at Extraordinary Resorts**, I lead Programme Tswelopele across Marketing, Reservations, Sales and CRM, with responsibility for an **11-website portfolio and content for 10 luxury properties**. I also lead **Potent Digital Marketing** on a part-time basis. Earlier roles include digital marketing management across **13 shopping centres at Broll** and leadership of a **seven-person marketing and sales team at Bonmas**.
 
 ## Selected work
 
-### Hospitality interface refresh
+| Project | Business purpose | My contribution |
+|---|---|---|
+| [Hospitality marketing value stream](https://github.com/thepotentguy/digital-transformation/blob/main/case-studies/marketing-value-stream.md) | Connect acquisition with enquiry and reservations handover | Journey mapping, website and SEO delivery, tracking implementation, CRM workflow design and programme coordination |
+| [Hospitality interface refresh](https://github.com/thepotentguy/digital-transformation/blob/main/case-studies/hospitality-interfaces.md) | Make property interfaces clearer and consistent | Responsive interface repairs, release packaging and verification across five themes |
+| [Workflow reliability](https://github.com/thepotentguy/digital-transformation/blob/main/case-studies/workflow-reliability.md) | Make automation work easier to resume and maintain | Checkpoints, recovery procedures and verified offline checks |
+| [Specials component](https://github.com/thepotentguy/extraordinary-bigin-special-main) | Present offers and support an enquiry journey | Website integration, adaptation and rollout work; original plugin attribution is retained |
 
-Responsive interface work across five hospitality themes, with focused CSS repairs and release packages checked against their manifests. The public case study uses original diagrams and anonymized examples.
+## Capabilities
 
-[Read the case study →](https://github.com/thepotentguy/digital-transformation/blob/main/case-studies/hospitality-interfaces.md)
+**Leadership:** marketing strategy, budget management, stakeholder coordination, team development, PMI-aligned delivery and Six Sigma process improvement.
 
-### Workflow reliability
+**Growth and operations:** SEO, paid social, content strategy, customer segmentation, campaign reporting, conversion tracking and CRM automation.
 
-Checkpoint and recovery safeguards for a private automation environment. The work separates a prepared recovery procedure from a successful live recovery test.
+**Web and systems:** WordPress, HTML, CSS, PHP, JavaScript, GTM, GA4, Zoho Bigin, n8n and VPS management.
 
-[Read the case study →](https://github.com/thepotentguy/digital-transformation/blob/main/case-studies/workflow-reliability.md)
+**Creative:** creative direction, photography, video, colour grading and design; Adobe Creative Cloud, Premiere Pro, DaVinci Resolve, Google Web Designer, Inkscape and FL Studio.
 
-## How I work
+**Education:** BA in Communication Science and Economics, **Cum Laude**, UNISA. Honours studies in progress. **Six Sigma Yellow Belt** and White Belt awarded; Green Belt and CAPM exam-preparation coursework completed.
 
-- **Design around the user:** clear interfaces and practical workflows.
-- **Make changes reviewable:** defined scope, versioned artifacts and proportionate checks.
-- **Protect the working system:** separate public demonstrations from operational code and private data.
-- **Describe results honestly:** distinguish prototypes, verified checks and live outcomes.
+I am interested in leadership opportunities with greater responsibility for strategy, budgets, cross-functional delivery and commercial decisions.
 
-**Focus:** responsive web interfaces · WordPress customization · workflow automation · technical documentation
+[LinkedIn](https://www.linkedin.com/in/papi-mashamba/) · [Project portfolio](https://github.com/thepotentguy/digital-transformation)
 
-[Explore the portfolio](https://github.com/thepotentguy/digital-transformation) · [Potent Digital](https://github.com/Potent-Digital)
+Public case studies show my contribution and implementation evidence. Client operations and private records remain in their owning systems.
