@@ -6,7 +6,7 @@ I am an **agency owner and marketing leader** combining strategy, team developme
 
 As **Digital Marketing Executive at Extraordinary Resorts**, I lead Programme Tswelopele across Marketing, Reservations, Sales and CRM, with responsibility for an **11-website portfolio and content for 10 luxury properties**. I own and lead **Potent Digital Marketing** on a part-time basis. Earlier roles include digital marketing management across **13 shopping centres at Broll** and leadership of a **seven-person marketing and sales team at Bonmas**.
 
-My work includes advertising strategy, CRM mapping and setup, sales-automation leadership, WhatsApp Business Agent assistance and Reservations training. CRM and sales-process improvements contributed to increased bookings; the public portfolio does not assign a numerical uplift or ROAS to that qualitative outcome.
+My work includes advertising strategy, CRM mapping and setup, sales-automation leadership, WhatsApp Business Agent assistance and Reservations training. CRM and sales-process improvements delivered immediate operating value and contributed to increased bookings.
 
 ## Selected work
 
